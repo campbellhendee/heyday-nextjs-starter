@@ -1,0 +1,63 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-c7447806766b8728.js",
+      "static/chunks/fd9d1056-62aaf4b921c84028.js",
+      "static/chunks/23-f2c2ec5da154e115.js",
+      "static/chunks/main-app-771b15b4362e4aec.js",
+      "static/chunks/app/_not-found/page-1fe41d8df168b155.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-c7447806766b8728.js",
+      "static/chunks/fd9d1056-62aaf4b921c84028.js",
+      "static/chunks/23-f2c2ec5da154e115.js",
+      "static/chunks/main-app-771b15b4362e4aec.js",
+      "static/css/7e453d48cb52c361.css",
+      "static/chunks/231-87925b9c7247c60f.js",
+      "static/chunks/app/layout-88f14c8f637e768a.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-c7447806766b8728.js",
+      "static/chunks/fd9d1056-62aaf4b921c84028.js",
+      "static/chunks/23-f2c2ec5da154e115.js",
+      "static/chunks/main-app-771b15b4362e4aec.js",
+      "static/chunks/app/about/page-8f6a8f1c0dc21bfe.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-c7447806766b8728.js",
+      "static/chunks/fd9d1056-62aaf4b921c84028.js",
+      "static/chunks/23-f2c2ec5da154e115.js",
+      "static/chunks/main-app-771b15b4362e4aec.js",
+      "static/chunks/231-87925b9c7247c60f.js",
+      "static/chunks/app/page-147eca8ddd8bc53c.js"
+    ],
+    "/daily/page": [
+      "static/chunks/webpack-c7447806766b8728.js",
+      "static/chunks/fd9d1056-62aaf4b921c84028.js",
+      "static/chunks/23-f2c2ec5da154e115.js",
+      "static/chunks/main-app-771b15b4362e4aec.js",
+      "static/chunks/app/daily/page-bc82f0c737d240b5.js"
+    ],
+    "/corporate/page": [
+      "static/chunks/webpack-c7447806766b8728.js",
+      "static/chunks/fd9d1056-62aaf4b921c84028.js",
+      "static/chunks/23-f2c2ec5da154e115.js",
+      "static/chunks/main-app-771b15b4362e4aec.js",
+      "static/chunks/app/corporate/page-88a178ddf459e1ae.js"
+    ],
+    "/weddings/page": [
+      "static/chunks/webpack-c7447806766b8728.js",
+      "static/chunks/fd9d1056-62aaf4b921c84028.js",
+      "static/chunks/23-f2c2ec5da154e115.js",
+      "static/chunks/main-app-771b15b4362e4aec.js",
+      "static/chunks/app/weddings/page-8037407f05059c1e.js"
+    ],
+    "/private/page": [
+      "static/chunks/webpack-c7447806766b8728.js",
+      "static/chunks/fd9d1056-62aaf4b921c84028.js",
+      "static/chunks/23-f2c2ec5da154e115.js",
+      "static/chunks/main-app-771b15b4362e4aec.js",
+      "static/chunks/app/private/page-5f4f89782333d2b2.js"
+    ]
+  }
+}
